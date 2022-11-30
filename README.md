@@ -4,7 +4,7 @@
 
 ### Overview
 
-This was done as a submission for Homework #22 for Data Visualization and Analysis Boot Camp. The goal was to Extract, Transform, and Load two data sets from Amazon (customer reviews)(https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) into a PostgreSQL database in the Amazon Web Services cloud. I chose to work with the Toys and Musical Instruments data sets. I used PySpark version 2.3.3 in a Google Colab notebook to perform the ETL process. The notebooks are located in the `Level 1` folder. The Google Colab files are also available at the following links: (Toys Data ETL)[https://colab.research.google.com/drive/1QRHL0xbpaXhElZWde3vpDfcbVemELkOd?usp=sharing] | (Musical Instruments ETL)[https://colab.research.google.com/drive/1pynUpKpLAacSrW2bHqmfBKwORtQnisC_?usp=sharing].
+This was done as a submission for Homework #22 for Data Visualization and Analysis Boot Camp. The goal was to Extract, Transform, and Load two data sets from Amazon customer reviews (https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) into a PostgreSQL database in the Amazon Web Services cloud. I chose to work with the Toys and Musical Instruments data sets. I used PySpark version 2.3.3 in a Google Colab notebook to perform the ETL process. The notebooks are located in the `Level 1` folder. The Google Colab files are also available at the following links: Toys Data ETL (https://colab.research.google.com/drive/1QRHL0xbpaXhElZWde3vpDfcbVemELkOd?usp=sharing) & Musical Instruments ETL (https://colab.research.google.com/drive/1pynUpKpLAacSrW2bHqmfBKwORtQnisC_?usp=sharing).
 
 
 ### To Replicate the Database:
