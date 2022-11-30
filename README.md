@@ -15,3 +15,5 @@ This was done as a submission for Homework #22 for Data Visualization and Analys
 1. Run the Google Colab to extract, transform, and load the data.
 
 I recommend using Google Colab to run the `.ipynb` files instead of Jupyter Notebook, since the files establish an environment in which the code will execute properly.
+
+Many thanks to my instructor, Dominic LaBella, for his Helper Files, instruction, and guidance.
